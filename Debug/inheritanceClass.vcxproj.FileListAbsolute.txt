@@ -1,0 +1,2 @@
+D:\Users\092834\OneDrive - UP Education\Desktop\CS105\inheritanceClass\Debug\inheritanceClass.exe
+D:\Users\092834\OneDrive - UP Education\Desktop\CS105\inheritanceClass\Debug\inheritanceClass.pdb
